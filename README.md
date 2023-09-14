@@ -1,6 +1,9 @@
 # Focus timer
 
 The goal of the project is to learn about advanced Javascript.
+
+https://github.com/RafaFullenbach/focus_timer/assets/63618616/faef1dd0-bd07-4d64-a3d3-f9c4692fb66c
+
 ## Apprenticeship
 
 - DOM manipulation;
